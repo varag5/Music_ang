@@ -1,0 +1,27 @@
+a:hover {
+  text-decoration: none;
+}
+
+.home {
+  height: 100vh;
+  background: url('/C:\Users\BUVR_\Downloads\Music\Music\src\assets\test.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.splash {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.splash h1 {
+  color: #ffffff;
+}
+
+.splash p {
+  padding-top: 10px;
+  color: #ffffff;
+}
